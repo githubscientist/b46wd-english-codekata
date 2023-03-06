@@ -1,0 +1,29 @@
+## Completed:
+
+- Variables
+- Datatypes
+
+## Next Topics:
+
+- Operators
+  - Arithmetic
+  - Relational
+  - Logical
+  - Assignment Operators
+  - Shorthand
+  - Ternary
+  - Bitwise Operators
+- Conditional Statements
+- Looping Statements
+- Arrays and methods
+  - sort
+  - map
+  - reduce
+  - filter
+  - join
+- Functions - Built-In Functions, User-Defined Functions
+- Strings and methods
+  - valueOf
+  - trim
+  - split
+- Object and methods

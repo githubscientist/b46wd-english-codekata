@@ -1,0 +1,1 @@
+console.log('Welcome Students to the CodeKata Sessions!');
