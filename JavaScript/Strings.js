@@ -32,3 +32,7 @@
 // // console.log(word.slice(1, 4));
 
 // console.log(word);
+
+// let word = 'ap@ple@123';
+
+// console.log(word.split(''));

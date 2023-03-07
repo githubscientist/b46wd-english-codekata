@@ -1,0 +1,122 @@
+- Input and Output
+
+  - 4, 5, 6 - 6.3.23
+  - 9, 10 - 7.3.23
+
+- Absolute Beginner
+  - 3, 4, 5, 6, 7, 8, 9
+
+# AB # 3
+
+You are provided with the radius of a circle "A". Find the length of its circumference.
+
+Note: In case the output is coming in decimal, roundoff to 2nd decimal place. In case the input is a negative number, print "Error".
+
+Input Description:
+The Radius of a circle is provided as the input of the program.
+
+Output Description:
+Calculate and print the Circumference of the circle corresponding to the input radius up to two decimal places.
+
+Sample Input :
+2
+Sample Output :
+12.57
+
+# AB # 4
+
+You will be provided with a number. Print the number of days in the month corresponding to that number.
+
+Note: In case the input is February, print 28 days. If the Input is not in valid range print "Error".
+
+Input Description:
+The input is in the form of a number.
+
+Output Description:
+Find the days in the month corresponding to the input number. Print Error if the input is not in a valid range.
+
+Sample Input :
+8
+Sample Output :
+31
+
+# AB # 5
+
+You are provided with a number, "N". Find its factorial.
+
+Input Description:
+A positive integer is provided as an input.
+
+Output Description:
+Print the factorial of the integer.
+
+Sample Input :
+2
+Sample Output :
+2
+
+# AB # 6
+
+You are provided with two numbers. Find and print the smaller number.
+
+Input Description:
+You are provided with two numbers as input.
+
+Output Description:
+Print the small number out of the two numbers.
+
+Sample Input :
+23 1
+Sample Output :
+1
+
+# AB # 7
+
+You are given with Principle amount($), Interest Rate(%) and Time (years) in that order. Find Simple Interest.
+
+Print the output up to two decimal places (Round-off if necessary).
+
+(S.I. = P*T*R/100)
+
+Input Description:
+Three values are given to you as the input. these values correspond to Principle amount, Interest Rate and Time in that particular order.
+
+Output Description:
+Find the Simple interest and print it up to two decimal places. Round off if required.
+
+Sample Input :
+1000 2 5
+Sample Output :
+100.00
+
+# AB # 8
+
+You are given with a number A i.e. the temperature in Celcius. Write a program to convert this into Fahrenheit.
+
+Note: In case of decimal values, round-off to two decimal places.
+
+Input Description:
+A number is provided in Celcius as the input of the program.
+
+Output Description:
+The output shall be the temperature converted into Fahrenheit corresponding to the input value print up to two decimal places and round off if required.
+
+Sample Input :
+12
+Sample Output :
+53.60
+
+# AB # 9
+
+You are given with a number "N", find its cube.
+
+Input Description:
+A positive integer is provided.
+
+Output Description:
+Find the cube of the number.
+
+Sample Input :
+2
+Sample Output :
+8
