@@ -146,6 +146,14 @@
 
 // console.log(array);
 
+// let array = [1, 2, 3, 4, 5];
+
+// console.log(array.join(', '));
+
+function reducer(previousValue, currentValue) {
+    return previousValue * currentValue;
+}
+
 let array = [1, 2, 3, 4, 5];
 
-console.log(array.join(', '));
+console.log(array.reduce(reducer));
