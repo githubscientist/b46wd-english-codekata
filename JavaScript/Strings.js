@@ -36,3 +36,5 @@
 // let word = 'ap@ple@123';
 
 // console.log(word.split(''));
+
+console.log(!isNaN(parseInt('123')));
